@@ -1,0 +1,7 @@
+﻿  SelfDiagnosisSystem.cpp
+C:\Users\Hager ElSherif\Desktop\SP Project\SelfDiagnosisSystem\SelfDiagnosisSystem.cpp(971,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hager ElSherif\Desktop\SP Project\SelfDiagnosisSystem\SelfDiagnosisSystem.cpp(1258,29): warning C4129: 'c': unrecognized character escape sequence
+C:\Users\Hager ElSherif\Desktop\SP Project\SelfDiagnosisSystem\SelfDiagnosisSystem.cpp(1371,22): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Hager ElSherif\Desktop\SP Project\SelfDiagnosisSystem\SelfDiagnosisSystem.cpp(1633,17): warning C4129: 'w': unrecognized character escape sequence
+C:\Users\Hager ElSherif\Desktop\SP Project\SelfDiagnosisSystem\SelfDiagnosisSystem.cpp(1690,25): warning C4129: ' ': unrecognized character escape sequence
+  SelfDiagnosisSystem.vcxproj -> C:\Users\Hager ElSherif\Desktop\SP Project\SelfDiagnosisSystem\x64\Debug\SelfDiagnosisSystem.exe

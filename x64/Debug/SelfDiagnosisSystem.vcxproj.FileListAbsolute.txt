@@ -1,0 +1,2 @@
+C:\Users\Hager ElSherif\Desktop\Projects\SelfDiagnosisSystem\x64\Debug\SelfDiagnosisSystem.exe
+C:\Users\Hager ElSherif\Desktop\SP Project\SelfDiagnosisSystem\x64\Debug\SelfDiagnosisSystem.exe

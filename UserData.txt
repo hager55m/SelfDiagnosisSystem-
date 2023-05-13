@@ -1,0 +1,18 @@
+4
+hager,1234,Hager,35,Female,Doctor of Surgery,0,
+yara ,Y164,Yara,28,Female,Doctor of Internist,0,
+nouran,N236,Nouran,30,Female,Doctor of Neurologist,0,
+mahmoud,12345,mahmoud,0,male,surg,0,
+3
+omar,1234,Omar,45,Male,2,0,Colitis Liner,Germ Stomach,
+kareem ,K123,Kareem,45,Male,0,0,
+adam ,A456,Adam,45,Male,0,0,
+3
+Stomach,Brain,Skin,
+6
+stomach,colitis liner,0,Colitis is swelling(inflammation) of the large intestine(colon),0,0,1,0,4,diarrhea,abdominal pain,fever,bloody stools,Alaa Mustafa,
+stomach,germ stomach,1,Germ Stomach literally means joint inflammation.Joints are places where two bones meet such as your elbow or knee.,0,0,1,0,4,loss of appetite,frequent burping,bloating,nausea,Ahmed Yehia,
+brain,epilepsy,2,Epilepsy is a central nervous system  disorder in which brain activity becomes abnormal causing seizures of unusual behavior ,0,1,1,0,4,Uncontrollable jerking and shaking, called a 'Fit',Losing awareness and staring blankly into space,Becoming stiff,Collapsing,
+brain,alzheimer,3,Alzheimer's disease is the most common type of dementia. It is a progressive disease beginning with mild memory loss and possibly leading to loss of the ability to carry on a conversation.,0,1,1,0,4,Memory loss that disrupts daily life,Taking longer to complete normal daily tasks,Repeating questions or forgetting recently learned information,Losing track of dates or knowing current location,Mahmoud Ali,
+skin,smallpox,4,Smallpox is an infectious disease caused by variola virus which belongs to the genus Orthopoxvirus.,0,2,1,0,4,Backache,Abdominal pain,Vomiting,Diarrhoea,Khaled Mohamed,
+skin,gout,5,Gout is a common form of inflammatory arthritis that is very painful. It usually affects one joint at a time (often the big toe joint). ,0,2,1,0,4,Joint swelling,Sudden and sever joint paint,Mild fever,Joint stiffness,hassan Omer,
